@@ -27,7 +27,7 @@ let categories=[
         img_src:
         "https://rukminim1.flixcart.com/fk-p-flap/96/96/image/eb336e40e5a1b6ec.png?q=100",
         title:"Fashion",
-        href:""
+        href:"product.html"
     },
     {
         img_src:
